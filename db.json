@@ -1,7 +1,7 @@
 {
   "id": 1,
-  "name": 'Kevin',
+  "name": "Kevin",
   "age": 32,
-  "title": 'Software Engineer',
-  "company": 'Caesars'
+  "title": "Software Engineer",
+  "company": "Caesars"
 }
