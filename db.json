@@ -2,6 +2,6 @@
   id: 1,
   name: 'Kevin',
   age: 32,
-  title: 'Software Engineer'
+  title: 'Software Engineer',
   company: 'Caesars'
 }
